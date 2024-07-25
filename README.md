@@ -1,6 +1,4 @@
-# README - Presentación de [Tu Nombre]
-
-## ¡Hola! Soy [Tu Nombre]
+## ¡Hola! Soy Max Fravel Urquizo Oré
 ### Desarrollador de Aplicaciones Móviles
 
 ---
