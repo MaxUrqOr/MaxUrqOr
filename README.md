@@ -29,66 +29,17 @@ Soy un desarrollador de aplicaciones móviles con experiencia en Java y Kotlin, 
 
 ---
 
-### Proyectos Destacados
-
-#### Aplicación de Gestión de Tareas
-
-- **Descripción:** Una aplicación móvil para la gestión de tareas personales y profesionales, con funcionalidades de creación, edición y eliminación de tareas.
-- **Tecnologías Utilizadas:**
-  - **Frontend:** Android (Java, Kotlin)
-  - **Backend:** Node.js, Express.js
-  - **Base de Datos:** SQL en Azure
-
-#### Plataforma de E-commerce
-
-- **Descripción:** Desarrollo de una plataforma de comercio electrónico, con funcionalidades de catálogo de productos, carrito de compras y sistema de pago.
-- **Tecnologías Utilizadas:**
-  - **Frontend:** Android (Kotlin)
-  - **Backend:** PHP, Laravel
-  - **Base de Datos:** SQL en Oracle Cloud
-
----
-
-### Experiencia Profesional
-
-#### [Nombre de la Empresa 1]
-- **Rol:** Desarrollador de Aplicaciones Móviles
-- **Período:** [Fecha de inicio] - [Fecha de finalización]
-- **Responsabilidades:**
-  - Desarrollo y mantenimiento de aplicaciones móviles para Android.
-  - Integración de APIs backend utilizando PHP y Node.js.
-  - Colaboración con equipos de diseño y producto para mejorar la experiencia de usuario.
-
-#### [Nombre de la Empresa 2]
-- **Rol:** Ingeniero de Software Backend
-- **Período:** [Fecha de inicio] - [Fecha de finalización]
-- **Responsabilidades:**
-  - Desarrollo de APIs RESTful en Node.js y PHP.
-  - Gestión de bases de datos SQL en Oracle Cloud y Azure.
-  - Implementación de soluciones en la nube para optimizar el rendimiento y la escalabilidad.
-
----
-
 ### Educación
 
 - **Título Universitario en Ingeniería Informática**
-  - **Institución:** [Nombre de la Universidad]
-  - **Período:** [Fecha de inicio] - [Fecha de finalización]
+  - **Institución:** [Universidad Continental Huancayo]
+  - **Período:** [2018-04] - [2023-12]
 
 ---
 
 ### Contacto
 
-- **Correo Electrónico:** [tu.email@ejemplo.com]
-- **LinkedIn:** [linkedin.com/in/tu-perfil]
-- **GitHub:** [github.com/tu-usuario]
+- **Correo Electrónico:** [maxfravel99@gmail.com]
+- **LinkedIn:** [https://pe.linkedin.com/in/max-fravel-urquizo-ore-45b85a21b]
 
 ---
-
-### Objetivo Profesional
-
-Mi objetivo es seguir creciendo como desarrollador de aplicaciones móviles, enfrentando nuevos desafíos y aprendiendo continuamente para mejorar mis habilidades. Estoy entusiasmado por la oportunidad de trabajar en proyectos innovadores que tengan un impacto positivo en la vida de las personas.
-
----
-
-¡Gracias por tomarte el tiempo de leer mi presentación! Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme.
