@@ -50,9 +50,9 @@ Soy un desarrollador de aplicaciones móviles con experiencia en Java y Kotlin, 
 
 ### Educación
 
-- **Título Universitario en Ingeniería Informática**
+  - **Bachillerato Universitario en Ingeniería en Sistemas e Informática**
   - **Institución:** [Universidad Continental Huancayo]
-  - **Período:** [2018-04] - [2023-12]
+  - **Período:** [2018-10] - [2023-20]
 
 ---
 
