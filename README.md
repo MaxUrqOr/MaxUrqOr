@@ -56,7 +56,7 @@ Soy un desarrollador de aplicaciones móviles con experiencia en Java y Kotlin, 
 ---
 
 ### Contacto
-<a href="mailto:maxfravel99@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maxfravel99@gmail.com" target="_blank">
     <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
 </a>
 
