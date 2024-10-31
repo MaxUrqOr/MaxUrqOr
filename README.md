@@ -45,7 +45,6 @@ Soy un desarrollador de aplicaciones móviles con experiencia en Java y Kotlin, 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"> </code>
   
-
 ---
 
 ### Educación
@@ -57,8 +56,12 @@ Soy un desarrollador de aplicaciones móviles con experiencia en Java y Kotlin, 
 ---
 
 ### Contacto
+<a href="mailto:maxfravel99@gmail.com" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg">
+</a>
 
-- **Correo Electrónico:** [maxfravel99@gmail.com]
-- **LinkedIn:** [https://pe.linkedin.com/in/max-fravel-urquizo-ore-45b85a21b]
+<a href="https://www.linkedin.com/in/max-fravel-urquizo-ore-45b85a21b/" target="_blank">
+    <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+</a>
 
 ---
